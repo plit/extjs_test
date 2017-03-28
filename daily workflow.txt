@@ -1,0 +1,14 @@
+
+daily workflow:
+- create mysql database
+- tiny nodejs backend
+  connection mysql
+  mysql select and return promise
+- frontent (extjs)
+  create model
+  create store
+  show list view elements
+  load data and save local store
+  
+
+  
